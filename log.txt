@@ -1,0 +1,39 @@
+###log for sample simulation: at the beginning all motes were at maximum distance, then we moved mote 1
+###near all the other motes. 
+
+msgID: 8865aac4.c46c18, message received on port 60001 for user 1.
+msgID: 8865aac4.c46c18, message for user 1 cleared: user 1 is too near from user 2
+msgID: 8865aac4.c46c18, sending notification to user 1...
+msgID: afa52f03.b09b6, message received on port 60002 for user 2.
+msgID: afa52f03.b09b6, message for user 2 cleared: user 2 is too near from user 1
+msgID: afa52f03.b09b6, sending notification to user 2...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 8865aac4.c46c18, notification sent to the user 1)
+msgID: adf04eb1.d669e, message received on port 60001 for user 1.
+msgID: adf04eb1.d669e, message for user 1 cleared: user 1 is too near from user 2
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: afa52f03.b09b6, notification sent to the user 2)
+msgID: dc653545.274238, message received on port 60002 for user 2.
+msgID: dc653545.274238, message for user 2 cleared: user 2 is too near from user 1
+msgID: 136a65ae.1c0e3a, message received on port 60001 for user 1.
+msgID: 136a65ae.1c0e3a, message for user 1 cleared: user 1 is too near from user 4
+msgID: 136a65ae.1c0e3a, sending notification to user 1...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 136a65ae.1c0e3a, notification sent to the user 1)
+msgID: 83a1417b.6cb7e, message received on port 60001 for user 1.
+msgID: 83a1417b.6cb7e, message for user 1 cleared: user 1 is too near from user 4
+msgID: 4a89d468.da42bc, message received on port 60001 for user 1.
+msgID: 4a89d468.da42bc, message for user 1 cleared: user 1 is too near from user 5
+msgID: 4a89d468.da42bc, sending notification to user 1...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 4a89d468.da42bc, notification sent to the user 1)
+msgID: 5bf3d2eb.87808c, message received on port 60001 for user 1.
+msgID: 5bf3d2eb.87808c, message for user 1 cleared: user 1 is too near from user 5
+msgID: 6e489e8.82fec6, message received on port 60001 for user 1.
+msgID: 6e489e8.82fec6, message for user 1 cleared: user 1 is too near from user 3
+msgID: 6e489e8.82fec6, sending notification to user 1...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 6e489e8.82fec6, notification sent to the user 1)
+msgID: bf58345.066d0c8, message received on port 60003 for user 3.
+msgID: bf58345.066d0c8, message for user 3 cleared: user 3 is too near from user 1
+msgID: bf58345.066d0c8, sending notification to user 3...
+msgID: 940d9f0f.96248, message received on port 60001 for user 1.
+msgID: 940d9f0f.96248, message for user 1 cleared: user 1 is too near from user 3
+msgID: 304d2250.43a7fe, message received on port 60001 for user 1.
+msgID: 400ed5ab.69d31c, message received on port 60002 for user 2.
+msgID: a684189c.b2d288, message received on port 60003 for user 3.
