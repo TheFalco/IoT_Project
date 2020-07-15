@@ -38,7 +38,7 @@ The mote 1 was moved around all the others motes, following the path 2 ⇒ 3 ⇒
 
 ## Results
 
-The result of this iteration is present in the [log.txt](Simulation/log.txt) file.
+The result of this iteration is present in the [log.txt](log.txt) file.
 
 ### Extra
 
