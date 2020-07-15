@@ -1,39 +1,69 @@
-###log for sample simulation: at the beginning all motes were at maximum distance, then we moved mote 1
-###near all the other motes. 
+###log of a sample Cooja simulation: See the report for more details.
 
-msgID: 8865aac4.c46c18, message received on port 60001 for user 1.
-msgID: 8865aac4.c46c18, message for user 1 cleared: user 1 is too near from user 2
-msgID: 8865aac4.c46c18, sending notification to user 1...
-msgID: afa52f03.b09b6, message received on port 60002 for user 2.
-msgID: afa52f03.b09b6, message for user 2 cleared: user 2 is too near from user 1
-msgID: afa52f03.b09b6, sending notification to user 2...
-Congratulations! You've fired the Keep_your_distance%21 event (msgID: 8865aac4.c46c18, notification sent to the user 1)
-msgID: adf04eb1.d669e, message received on port 60001 for user 1.
-msgID: adf04eb1.d669e, message for user 1 cleared: user 1 is too near from user 2
-Congratulations! You've fired the Keep_your_distance%21 event (msgID: afa52f03.b09b6, notification sent to the user 2)
-msgID: dc653545.274238, message received on port 60002 for user 2.
-msgID: dc653545.274238, message for user 2 cleared: user 2 is too near from user 1
-msgID: 136a65ae.1c0e3a, message received on port 60001 for user 1.
-msgID: 136a65ae.1c0e3a, message for user 1 cleared: user 1 is too near from user 4
-msgID: 136a65ae.1c0e3a, sending notification to user 1...
-Congratulations! You've fired the Keep_your_distance%21 event (msgID: 136a65ae.1c0e3a, notification sent to the user 1)
-msgID: 83a1417b.6cb7e, message received on port 60001 for user 1.
-msgID: 83a1417b.6cb7e, message for user 1 cleared: user 1 is too near from user 4
-msgID: 4a89d468.da42bc, message received on port 60001 for user 1.
-msgID: 4a89d468.da42bc, message for user 1 cleared: user 1 is too near from user 5
-msgID: 4a89d468.da42bc, sending notification to user 1...
-Congratulations! You've fired the Keep_your_distance%21 event (msgID: 4a89d468.da42bc, notification sent to the user 1)
-msgID: 5bf3d2eb.87808c, message received on port 60001 for user 1.
-msgID: 5bf3d2eb.87808c, message for user 1 cleared: user 1 is too near from user 5
-msgID: 6e489e8.82fec6, message received on port 60001 for user 1.
-msgID: 6e489e8.82fec6, message for user 1 cleared: user 1 is too near from user 3
-msgID: 6e489e8.82fec6, sending notification to user 1...
-Congratulations! You've fired the Keep_your_distance%21 event (msgID: 6e489e8.82fec6, notification sent to the user 1)
-msgID: bf58345.066d0c8, message received on port 60003 for user 3.
-msgID: bf58345.066d0c8, message for user 3 cleared: user 3 is too near from user 1
-msgID: bf58345.066d0c8, sending notification to user 3...
-msgID: 940d9f0f.96248, message received on port 60001 for user 1.
-msgID: 940d9f0f.96248, message for user 1 cleared: user 1 is too near from user 3
-msgID: 304d2250.43a7fe, message received on port 60001 for user 1.
-msgID: 400ed5ab.69d31c, message received on port 60002 for user 2.
-msgID: a684189c.b2d288, message received on port 60003 for user 3.
+msgID: 1bc5d1df.3ff9ee, Message received on port 60001 for user 1.
+msgID: 2909673f.035be8, Message received on port 60002 for user 2.
+msgID: 84a86180.34319, Message received on port 60002 for user 2.
+msgID: 84a86180.34319, Message for user 2 cleared: user 2 is too near from user 1
+msgID: 84a86180.34319, Sending notification to user 2...
+msgID: 278ae29e.411a1e, Message received on port 60001 for user 1.
+msgID: 278ae29e.411a1e, Message for user 1 cleared: user 1 is too near from user 2
+msgID: 278ae29e.411a1e, Sending notification to user 1...
+msgID: 4de0e29e.d5a21c, Message received on port 60002 for user 2.
+msgID: 4de0e29e.d5a21c, Message for user 2 cleared: user 2 is too near from user 1
+msgID: 4de0e29e.d5a21c, Not enough time has passed since last notification.
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 84a86180.34319, Notification sent to the user 2)
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 278ae29e.411a1e, Notification sent to the user 1)
+msgID: 7303229e.adcecc, Message received on port 60001 for user 1.
+msgID: 7303229e.adcecc, Message for user 1 cleared: user 1 is too near from user 2
+msgID: 7303229e.adcecc, Not enough time has passed since last notification.
+msgID: fba78473.ddbbf8, Message received on port 60002 for user 2.
+msgID: fba78473.ddbbf8, Message for user 2 cleared: user 2 is too near from user 1
+msgID: fba78473.ddbbf8, Not enough time has passed since last notification.
+msgID: 3efc0a97.fbc996, Message received on port 60003 for user 3.
+msgID: 3efc0a97.fbc996, Message for user 3 cleared: user 3 is too near from user 1
+msgID: 3efc0a97.fbc996, Sending notification to user 3...
+msgID: 5bebd7a.106bc28, Message received on port 60001 for user 1.
+msgID: 5bebd7a.106bc28, Message for user 1 cleared: user 1 is too near from user 3
+msgID: 5bebd7a.106bc28, Sending notification to user 1...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 5bebd7a.106bc28, Notification sent to the user 1)
+msgID: c1f8b3ff.6006e, Message received on port 60003 for user 3.
+msgID: c1f8b3ff.6006e, Message for user 3 cleared: user 3 is too near from user 1
+msgID: c1f8b3ff.6006e, Not enough time has passed since last notification.
+msgID: a912e854.7715f8, Message received on port 60001 for user 1.
+msgID: a912e854.7715f8, Message for user 1 cleared: user 1 is too near from user 3
+msgID: a912e854.7715f8, Not enough time has passed since last notification.
+msgID: 48c4c6f0.9f52a8, Message received on port 60003 for user 3.
+msgID: 48c4c6f0.9f52a8, Message for user 3 cleared: user 3 is too near from user 1
+msgID: 48c4c6f0.9f52a8, Not enough time has passed since last notification.
+msgID: 2b71c722.239ea8, Message received on port 60001 for user 1.
+msgID: 2b71c722.239ea8, Message for user 1 cleared: user 1 is too near from user 3
+msgID: 2b71c722.239ea8, Not enough time has passed since last notification.
+msgID: ad180c9e.a2d12, Message received on port 60001 for user 1.
+msgID: ad180c9e.a2d12, Message for user 1 cleared: user 1 is too near from user 4
+msgID: ad180c9e.a2d12, Sending notification to user 1...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: ad180c9e.a2d12, Notification sent to the user 1)
+msgID: 6ce788e8.ea3b08, Message received on port 60001 for user 1.
+msgID: 6ce788e8.ea3b08, Message for user 1 cleared: user 1 is too near from user 4
+msgID: 6ce788e8.ea3b08, Not enough time has passed since last notification.
+msgID: 7715cf53.8c3fc, Message received on port 60001 for user 1.
+msgID: 7715cf53.8c3fc, Message for user 1 cleared: user 1 is too near from user 5
+msgID: 7715cf53.8c3fc, Sending notification to user 1...
+Congratulations! You've fired the Keep_your_distance%21 event (msgID: 7715cf53.8c3fc, Notification sent to the user 1)
+msgID: dac4b194.5911b, Message received on port 60001 for user 1.
+msgID: dac4b194.5911b, Message for user 1 cleared: user 1 is too near from user 5
+msgID: dac4b194.5911b, Not enough time has passed since last notification.
+msgID: 77995c25.fc4d64, Message received on port 60001 for user 1.
+msgID: 77995c25.fc4d64, Message for user 1 cleared: user 1 is too near from user 5
+msgID: 77995c25.fc4d64, Not enough time has passed since last notification.
+msgID: 10c729d7.a3c666, Message received on port 60001 for user 1.
+msgID: 10c729d7.a3c666, Message for user 1 cleared: user 1 is too near from user 2
+msgID: 10c729d7.a3c666, Not enough time has passed since last notification.
+msgID: 29520118.c144ae, Message received on port 60002 for user 2.
+msgID: 29520118.c144ae, Message for user 2 cleared: user 2 is too near from user 1
+msgID: 29520118.c144ae, Not enough time has passed since last notification.
+msgID: e0909e8f.d5f62, Message received on port 60001 for user 1.
+msgID: e0909e8f.d5f62, Message for user 1 cleared: user 1 is too near from user 2
+msgID: e0909e8f.d5f62, Not enough time has passed since last notification.
+msgID: 7e0a5f81.b450d, Message received on port 60002 for user 2.
+msgID: 7e0a5f81.b450d, Message for user 2 cleared: user 2 is too near from user 1
+msgID: 7e0a5f81.b450d, Not enough time has passed since last notification.
